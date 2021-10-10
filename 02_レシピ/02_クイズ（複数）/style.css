@@ -7,3 +7,7 @@
 .hidden {
   display: none;
 }
+
+#next-quiz {
+  margin-top: 10px;
+}

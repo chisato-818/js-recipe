@@ -47,3 +47,6 @@ const createCard = function(text) {
 
   return card
 }
+
+// ＋カードを追加ボタン押した後の動作
+
