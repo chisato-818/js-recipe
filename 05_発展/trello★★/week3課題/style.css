@@ -1,0 +1,25 @@
+.input-todo {
+  float: left;
+  width: 300px;
+  height: 20px;
+  border-radius: 4px;
+}
+
+.add-button {
+  float: left;
+  border: 1px solid rgb(224, 132, 28);
+  margin-left: 2px;
+  border-radius: 4px;
+  padding: 0px 4px;
+  background-color: rgb(253, 230, 152);
+  cursor: pointer;
+}
+
+.header {
+  background-color: darkcyan;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  height: 100vh;
+  overflow-x: auto;
+}

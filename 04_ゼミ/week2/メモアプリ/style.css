@@ -1,0 +1,36 @@
+.input-todo {
+  width: 200px;
+  height: 20px;
+  border-radius: 4px;
+  display: block;
+}
+
+.add-button {
+  border: 1px solid rgb(97, 94, 90);
+  margin-left: 2px;
+  border-radius: 4px;
+  padding: 0px 4px;
+  background-color: rgb(204, 202, 197);
+  cursor: pointer;
+}
+
+.input-container {
+  display: flex;
+}
+
+.container {
+  flex-direction: column;
+}
+
+.cards-container {
+  display: flex;
+}
+
+.sakuzyo {
+  border: 1px solid rgb(97, 94, 90);
+  margin-left: 2px;
+  border-radius: 4px;
+  padding: 0px 4px;
+  background-color: rgb(204, 202, 197);
+  cursor: pointer;
+}

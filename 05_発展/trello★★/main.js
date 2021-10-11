@@ -49,4 +49,3 @@ const createCard = function(text) {
 }
 
 // ＋カードを追加ボタン押した後の動作
-
