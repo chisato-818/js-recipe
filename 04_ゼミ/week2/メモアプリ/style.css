@@ -19,10 +19,6 @@
 }
 
 .container {
-  flex-direction: column;
-}
-
-.cards-container {
   display: flex;
 }
 
