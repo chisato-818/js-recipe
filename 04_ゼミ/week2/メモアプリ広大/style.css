@@ -1,0 +1,7 @@
+.header {
+  display: flex;
+}
+
+.add-button {
+  border: 1px solid darkcyan;
+}
